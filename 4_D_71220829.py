@@ -1,0 +1,6 @@
+print ("!! Selamat datang di H+ GYM !!")
+print ("Silahkan pilih menu dibawah ini: ")
+asdwasd=print("1. Menambah data")
+lihjaf=print("2. Menampilkan data")
+posjdb=print("3. Keluar ")
+huuu=int(input("Silakan masukkan pilihan yang anda inginkan: "))
